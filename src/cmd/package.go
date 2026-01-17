@@ -25,7 +25,7 @@ import (
 	goyaml "github.com/goccy/go-yaml"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"github.com/zarf-dev/zarf/src/internal/value"
+	"github.com/zarf-dev/zarf/src/pkg/value"
 	"github.com/zarf-dev/zarf/src/pkg/images"
 	"github.com/zarf-dev/zarf/src/pkg/packager"
 	"oras.land/oras-go/v2/registry"
